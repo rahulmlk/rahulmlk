@@ -9,7 +9,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rahul-mallick-7822b9122/)
-[![GitHub](https://img.shields.io/badge/GitHub-rahulmlk-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/rahulmlk)
+
 
 </div>
 
