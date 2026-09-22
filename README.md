@@ -1,39 +1,53 @@
+<!-- HEADER -->
+
 <div align="center">
 
-# Rahul Mallick
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Rahul%20Mallick&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20Researcher%20%7C%20Computational%20Biology&descAlignY=60&descSize=18" width="100%"/>
 
-### Bioinformatics Researcher · Computational Biology · Structural Bioinformatics
+</div>
+
+<div align="center">
+
+### Bioinformatics · Computational Biology · Structural Bioinformatics
 
 *Turning biological questions into computational insights.*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rahul-mallick-7822b9122/)
+<a href="https://www.linkedin.com/in/rahul-mallick-7822b9122/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/rahulmlk">
+<img src="https://img.shields.io/badge/GitHub-rahulmlk-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🧬 About
+## 🧬 About Me
 
-I am a **Bioinformatics Researcher** working across **transcriptomics, systems biology, structural biology, molecular dynamics, and computational drug discovery**.
+I am a **Bioinformatics Researcher** working at the intersection of **transcriptomics, systems biology, structural biology, molecular dynamics, and computational drug discovery**.
 
-My doctoral research focused on computational approaches for **West Nile Virus**, integrating host transcriptomics, viral protein analysis, molecular modelling, molecular dynamics, immunoinformatics, and vaccine design.
+My doctoral research focused on **West Nile Virus**, integrating host transcriptomics, molecular modelling, molecular dynamics, immunoinformatics, and vaccine design.
 
 **PhD thesis submitted · awaiting defense**
 
-I am currently interested in applying these computational approaches to broader problems in **genomics, multi-omics, translational research, and therapeutic discovery**.
+I am interested in applying computational approaches to broader problems in **genomics, multi-omics, translational research, and therapeutic discovery**.
 
 ---
 
-## 🔬 Research Focus
+## 🔬 Research Interests
 
 <div align="center">
 
-|                  🧬 Genomics                  |                🧪 Structural Biology               |                  💊 Therapeutic Discovery                  |
-| :-------------------------------------------: | :------------------------------------------------: | :--------------------------------------------------------: |
-| Transcriptomics<br>Systems Biology<br>RNA-seq | Protein Modelling<br>Molecular Dynamics<br>Docking | Target Discovery<br>Virtual Screening<br>Immunoinformatics |
+| 🧬 **Genomics & Systems Biology** | 🧪 **Structural Bioinformatics** | 💊 **Therapeutic Discovery** |
+| :-------------------------------: | :------------------------------: | :--------------------------: |
+|          Transcriptomics          |         Protein Modelling        |       Target Discovery       |
+|              RNA-seq              |        Molecular Dynamics        |       Virtual Screening      |
+|          Pathway Analysis         |         Molecular Docking        |       Immunoinformatics      |
+|          Network Biology          |        Structural Analysis       |        Vaccine Design        |
 
 </div>
 
@@ -41,23 +55,27 @@ I am currently interested in applying these computational approaches to broader 
 
 ## 🛠️ Technical Toolkit
 
-**Programming**
+### Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
+</p>
 
-**Bioinformatics & Workflow**
+### Bioinformatics & Reproducible Workflows
 
-![Nextflow](https://img.shields.io/badge/Nextflow-3A3A3A?style=flat-square\&logo=nextflow\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Nextflow-3A3A3A?style=flat-square&logo=nextflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
 `STAR` · `featureCounts` · `DESeq2` · `clusterProfiler` · `GSVA`
 
-**Structural & Molecular Simulation**
+### Structural Biology & Molecular Simulation
 
 `GROMACS` · `AutoDock` · `MODELLER` · `Molecular Dynamics`
 
@@ -65,80 +83,159 @@ I am currently interested in applying these computational approaches to broader 
 
 ## 🚀 Featured Projects
 
-### 🧬 [WNV Host Transcriptomics](https://github.com/rahulmlk/nextflow-transcriptomics)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Reproducible RNA-seq workflow for investigating host transcriptional responses to West Nile Virus infection and interferon signalling.**
+### 🧬 WNV Host Transcriptomics
 
-`Nextflow` `STAR` `featureCounts` `DESeq2` `GSVA` `Pathway Analysis`
+Reproducible RNA-seq workflow for investigating host transcriptional responses to **West Nile Virus infection and interferon signalling**.
 
----
+**Tools**
 
-### 💉 [WNV Multi-Epitope Vaccine Design](https://github.com/rahulmlk/wnv-mesv-vaccine)
+`Nextflow` `STAR` `featureCounts` `DESeq2` `GSVA`
 
-**Computational pipeline accompanying published research on multi-epitope vaccine design against West Nile Virus.**
+<br>
 
-`Python` `Immunoinformatics` `Structural Biology` `Vaccine Design`
+<a href="https://github.com/rahulmlk/nextflow-transcriptomics">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-📄 *Companion repository for Mallick et al., In Silico Pharmacology (2025)*
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🧪 [Integrated WNV Computational Biology](https://github.com/rahulmlk/rahul-mallick-integrated_project_wnv)
+### 💉 WNV Multi-Epitope Vaccine
 
-**Integrated computational analysis combining transcriptomics, structural biology, molecular simulation and therapeutic target discovery.**
+Computational pipeline accompanying published research on **multi-epitope vaccine design against West Nile Virus**.
 
-`Python` `Bioinformatics` `Structural Biology` `Molecular Dynamics`
+**Tools**
 
----
+`Python` `Immunoinformatics` `Structural Biology`
 
-### 🧬 [Multi-Omics Pipeline](https://github.com/rahulmlk/multi-omics-pipeline-nf)
+<br>
 
-**Nextflow-based workflow for reproducible multi-omics analysis.**
+<a href="https://github.com/rahulmlk/wnv-mesv-vaccine">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-`Nextflow` `Bioinformatics` `Workflow Development`
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 🦠 [E. coli Variant Discovery](https://github.com/rahulmlk/ecoli-variant-discovery)
+### 🧪 Integrated WNV Computational Biology
 
-**Computational workflow for genomic sequence analysis and bacterial variant discovery.**
+Integrated computational analysis combining **transcriptomics, structural biology, molecular simulation and therapeutic target discovery**.
 
-`Genomics` `Variant Analysis` `Bioinformatics`
+**Tools**
+
+`Python` `Bioinformatics` `Molecular Dynamics`
+
+<br>
+
+<a href="https://github.com/rahulmlk/rahul-mallick-integrated_project_wnv">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧬 Multi-Omics Pipeline
+
+Nextflow-based workflow demonstrating **reproducible multi-omics analysis**.
+
+**Tools**
+
+`Nextflow` `R` `Workflow Development`
+
+<br>
+
+<a href="https://github.com/rahulmlk/multi-omics-pipeline-nf">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🦠 E. coli Variant Discovery
+
+Computational workflow for **genomic sequence analysis and bacterial variant discovery**.
+
+**Tools**
+
+`Genomics` `Variant Analysis` `Shell`
+
+<br>
+
+<a href="https://github.com/rahulmlk/ecoli-variant-discovery">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧰 Computational Tools
+
+Selected computational utilities and scripts supporting bioinformatics and molecular research workflows.
+
+**Focus**
+
+`Scientific Programming` `Data Processing` `Automation`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Selected Publication
 
-### Artificial Intelligence, Structural and Immunoinformatics Driven Multi Epitope Vaccine Design Targeting Non Structural Proteins of West Nile Virus
+### *Artificial Intelligence, Structural and Immunoinformatics Driven Multi Epitope Vaccine Design Targeting Non Structural Proteins of West Nile Virus*
 
 **Mallick R., Sethi G., Sethi S., Hwang J.H., Krishna R.**
 
 *In Silico Pharmacology · 2025*
 
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs40203--025--00459--6-2E7D32?style=flat-square)](https://doi.org/10.1007/s40203-025-00459-6)
+<a href="https://doi.org/10.1007/s40203-025-00459-6">
+<img src="https://img.shields.io/badge/DOI-10.1007%2Fs40203--025--00459--6-2E7D32?style=flat-square"/>
+</a>
 
 ---
 
 ## 🌱 Currently Exploring
 
-```text
-Reproducible Bioinformatics
-        │
-        ├── Transcriptomics
-        ├── Genomics & Multi-omics
-        ├── Translational Bioinformatics
-        └── Computational Therapeutic Discovery
-```
+<div align="center">
+
+`Reproducible Bioinformatics`
+  ·  
+`Genomics`
+  ·  
+`Transcriptomics`
+  ·  
+`Multi-Omics`
+  ·  
+`Translational Bioinformatics`
+  ·  
+`Computational Therapeutic Discovery`
+
+</div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulmlk&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahulmlk&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmlk&layout=compact&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmlk&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
 
 </div>
 
@@ -146,12 +243,22 @@ Reproducible Bioinformatics
 
 <div align="center">
 
-### Let's connect
+### Let's Connect
 
 **Bioinformatics · Computational Biology · Genomics · Structural Biology · Drug Discovery**
 
+<br><br>
+
+<a href="https://www.linkedin.com/in/rahul-mallick-7822b9122/">
+<img src="https://img.shields.io/badge/LinkedIn-Rahul%20Mallick-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/rahul-mallick-7822b9122/) · [GitHub](https://github.com/rahulmlk)
+<div align="center">
+
+<sub>Building computational approaches to understand biology and accelerate discovery.</sub>
 
 </div>
