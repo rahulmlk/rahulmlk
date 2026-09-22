@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,25:164e63,50:312e81,75:701a75,100:0f172a&height=220&section=header&text=Rahul%20Mallick&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20Researcher%20%7C%20Computational%20Biology&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,25:164e63,50:312e81,75:701a75,100:0f172a&height=220&section=header&text=Rahul%20Mallick&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20Researcher%20%7C%20Computational%20Biologist&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### Bioinformatics · Computational Biology · Structural Bioinformatics
+### NGS & Genomics | Systems Biology | Structural Bioinformatics | Computational Drug Discovery
 
 *Turning biological questions into computational insights.*
 
