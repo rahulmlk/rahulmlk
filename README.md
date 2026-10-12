@@ -52,29 +52,50 @@ I am interested in applying computational approaches to broader problems in **ge
 
 ## 🛠️ Technical Toolkit
 
+*Tools and software I have used across my repositories and research.*
+
 ### Programming & Data
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
-### Bioinformatics & Reproducible Workflows
+**Python:** `Biopython` · `MDAnalysis` · `pandas` · `NumPy` · `Matplotlib` · `pytest`
+**R / Bioconductor:** `DESeq2` · `apeglm` · `GSVA` · `clusterProfiler` · `ggplot2`
+
+### Workflows, Reproducibility & Environments
 
 <p>
 <img src="https://img.shields.io/badge/Nextflow-3A3A3A?style=flat-square&logo=nextflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snakemake-039475?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-`STAR` · `featureCounts` · `DESeq2` · `clusterProfiler` · `GSVA`
+`Nextflow DSL2` · `Snakemake` · `Docker` · `Singularity` · `Conda` · `AWS Batch` · `GitHub Actions CI`
+
+### NGS, Genomics & Variant Analysis
+
+`FastQC` · `fastp` · `MultiQC` · `STAR` · `featureCounts` · `BWA-MEM` · `SAMtools` · `BCFtools` · `SRA Toolkit` · `IGV`
+
+### Transcriptomics & Pathway Analysis
+
+`DESeq2` · `apeglm` · `GSVA` · `clusterProfiler` (GO, KEGG) · `MSigDB Hallmark` · `PCA` · `Heatmaps`
 
 ### Structural Biology & Molecular Simulation
 
-`GROMACS` · `AutoDock` · `MODELLER` · `Molecular Dynamics`
+`GROMACS` · `AutoDock` · `MODELLER` · `MDAnalysis` · `ClusPro` · `trRosetta` · `GalaxyRefine2` · `ProSA-web`
+
+### Immunoinformatics & Vaccine Design
+
+`IEDB` · `VaxiJen` · `AllerTOP` · `ToxinPred` · `C-ImmSim` · `NCBI` · `UniProt`
 
 ---
 
@@ -90,7 +111,7 @@ Reproducible RNA-seq workflow for investigating host transcriptional responses t
 
 **Tools**
 
-`Nextflow` `STAR` `featureCounts` `DESeq2` `GSVA`
+`Nextflow DSL2` `FastQC` `MultiQC` `STAR` `featureCounts` `DESeq2` `apeglm` `GSVA` `clusterProfiler` `Docker` `Singularity`
 
 <br>
 
@@ -108,7 +129,7 @@ Computational pipeline accompanying published research on **multi-epitope vaccin
 
 **Tools**
 
-`Python` `Immunoinformatics` `Structural Biology`
+`Python` `Biopython` `pytest` `GitHub Actions` `IEDB` `VaxiJen` `AllerTOP` `ToxinPred` `trRosetta` `GalaxyRefine2` `ProSA-web` `ClusPro` `GROMACS` `C-ImmSim`
 
 <br>
 
@@ -128,7 +149,7 @@ Integrated computational analysis combining **transcriptomics, structural biolog
 
 **Tools**
 
-`Python` `Bioinformatics` `Molecular Dynamics`
+`Python` `R` `Biopython` `MDAnalysis` `pandas` `Matplotlib` `DESeq2` `GSVA` `ggplot2` `STAR` `featureCounts` `GROMACS`
 
 <br>
 
@@ -146,7 +167,7 @@ Nextflow-based workflow demonstrating **reproducible multi-omics analysis**.
 
 **Tools**
 
-`Nextflow` `R` `Workflow Development`
+`Nextflow DSL2` `Snakemake` `R` `Bioconductor` `DESeq2` `MSigDB Hallmark` `Docker` `AWS Batch`
 
 <br>
 
@@ -166,7 +187,7 @@ Computational workflow for **genomic sequence analysis and bacterial variant dis
 
 **Tools**
 
-`Genomics` `Variant Analysis` `Shell`
+`FastQC` `fastp` `MultiQC` `BWA-MEM` `SAMtools` `BCFtools` `SRA Toolkit` `IGV` `Conda` `Bash`
 
 <br>
 
@@ -211,15 +232,15 @@ Selected computational utilities and scripts supporting bioinformatics and molec
 <div align="center">
 
 `Reproducible Bioinformatics`
-  ·  
+  ·  
 `Genomics`
-  ·  
+  ·  
 `Transcriptomics`
-  ·  
+  ·  
 `Multi-Omics`
-  ·  
+  ·  
 `Translational Bioinformatics`
-  ·  
+  ·  
 `Computational Therapeutic Discovery`
 
 </div>
